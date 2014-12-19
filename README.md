@@ -14,6 +14,8 @@ O Dojo funciona com programação em par, existe o piloto e co-piloto. O Piloto 
 ## Problemas
   
   * [Dojo Puzzles](http://dojopuzzles.com/) 
+  * [Code Chef](http://www.codechef.com/)
+  * [Project Euler](https://projecteuler.net/problems)
 
 ## Regras
 
