@@ -17,6 +17,9 @@ O Dojo funciona com programação em par, existe o piloto e co-piloto. O Piloto 
   * [Code Chef](http://www.codechef.com/)
   * [Project Euler](https://projecteuler.net/problems)
 
+## Apresentação
+Após ter dado o horário de início ou tive um número de pessoas que deê para iniciar o dojo, todos devem se apresentar dizendo o nome, onde trabalha e com o que mexe.
+
 ## Regras
 
 
