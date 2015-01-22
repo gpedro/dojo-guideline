@@ -5,33 +5,28 @@
 O objetivo não é terminar a resolução do problemas. A idéia é aprender com experiência vivenciada pelo grupo. O ambiente é inclusivo, seguro e convidativo.
 
 ## Como funciona?
-O Dojo funciona com programação em par, existe o piloto e co-piloto. O Piloto programa e o copiloto auxilia na lógica, mas não poderá falar códigos. Existe um tempo estipulado pelo organizador do dojo ou pelos participantes para o copiloto assumir o piloto e vir 
+O Coding Dojo funciona com programação em par, existe o piloto e co-piloto. O Piloto programa e o copiloto auxilia na lógica, mas não poderá falar códigos. Existe um tempo estipulado pelo organizador do dojo e/ou pelos participantes para o copiloto assumir o piloto e vir um novo copiloto. E assim vai até o problema ser resolvido ou o tempo do espaço acabar. Caso o problema for resolvido e tiverem tempo, é hora de refatorar o código e torna-lo melhor.
 
 ## Curinga
-
-  * [Dado explica](https://dadoce.wordpress.com/2013/05/12/nostalgias-coding-dojoseiras/)
+O Curinga é o responsável por levar o problema ao Dojo. Este nome tem toda uma história por trás, se quiser saber mais, veja no [blog do @DadoCe](https://dadoce.wordpress.com/2013/05/12/nostalgias-coding-dojoseiras/).
 
 ## Problemas
-  
+Nem sempre é possível encontrar um Curinga pontual, então separamos alguns links onde você pode encontrar alguns problemas para resolver.
   * [Dojo Puzzles](http://dojopuzzles.com/) 
+  * [TDD Problems](https://sites.google.com/site/tddproblems/all-problems-1)
+  * [Programming Challenges](http://www.programming-challenges.com/pg.php?page=studenthome)
   * [Code Chef](http://www.codechef.com/)
   * [Project Euler](https://projecteuler.net/problems)
 
-## Apresentação
-Após ter dado o horário de início ou tive um número de pessoas que deê para iniciar o dojo, todos devem se apresentar dizendo o nome, onde trabalha e com o que mexe.
+## Networking
+No dia do Dojo, apenas pra fazer um Networking melhor, após o Curinga chegar ou você quiserem começar o Dojo, o organizador do Dojo deve fazer uma breve introdução do que é Dojo e como funciona e logo depois todos se apresentarem para socializarem.
 
-## Regras
+## Ambiente
+Para se realizar um Dojo, é necessário ter um Ambiente configurado com testes unitários na linguagem escolhida e de preferência com algo que faça com que os testes seja reiniciados, toda vez que é salvo o arquivo.
 
+## Local
+Não tem muito mimimi, apenas tem que ter um projetor ou uma TV grande para os participantes poderem ver os outros codando.
 
-## CheckList
-Separamos uma breve lista do que você precisa para fazer um evento de dojo.
-
-#### Obrigatórios
-  - [ ] Local
-  - [ ] Curinga
-  - [ ] Ambiente configurado com testes unitários para linguagem a ser utilizada
-
-#### Opcionais
-  - [ ] Pessoas
-  - [ ] Cerveja
-  - [ ] Comida
+## Comunidades
+* [DojoSP](https://github.com/dojo-sp)
+* [DojoRio](https://github.com/dojorio/)
